@@ -1,3 +1,7 @@
+☀️ Simple React Weather App
+This is a basic weather application built using React with Vite. It allows users to search for a city and displays the current weather information fetched from an external API.
+
+
 🛠️ Technologies Used
 React: For building the user interface (.jsx components).
 
