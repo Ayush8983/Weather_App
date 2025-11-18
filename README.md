@@ -16,13 +16,7 @@ Prerequisites
 You need Node.js (which includes npm or yarn) installed on your system.
 
 Installation
-Clone the repository (if applicable):
-
-Bash
-
-git clone [Your Repository URL]
-cd [Your-Project-Folder-Name]
-Install dependencies:
+Clone the repository .
 
 Bash
 
@@ -37,7 +31,7 @@ Create a file named .env in the root directory of the project.
 
 Add your API key using the VITE_ prefix (standard for Vite) and the base URL:
 
-# Replace [YOUR_API_KEY_HERE] with your actual key
+# Replace  with your actual key
 VITE_WEATHER_API_KEY=[YOUR_API_KEY_HERE]
 VITE_WEATHER_API_BASE_URL=https://api.openweathermap.org/data/2.5/weather
 Running the App
@@ -46,6 +40,4 @@ Start the development server:
 Bash
 
 npm run dev
-# or
-# yarn dev
 The application will typically open in your browser at http://localhost:5173.
