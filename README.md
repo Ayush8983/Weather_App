@@ -37,9 +37,6 @@ Add your API key using the VITE_ prefix (standard for Vite) and the base URL:
 
 # Replace  with your actual key
 VITE_WEATHER_API_KEY=[YOUR_API_KEY_HERE]
-VITE_WEATHER_API_BASE_URL=https://api.openweathermap.org/data/2.5/weather
-Running the App
-Start the development server:
 
 Bash
 
